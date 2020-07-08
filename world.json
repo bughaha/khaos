@@ -1276,5 +1276,11 @@
 		"name": "Zimbabwe",
 		"value": 0,
 		"code": "ZW"
+	},
+	{
+		"code3": "TWN",
+		"name": "Taiwan",
+		"value": 400,
+		"code": "TW"
 	}
 ]
